@@ -92,8 +92,21 @@ namespace Hw21
             //        Console.WriteLine(num / num2);
             //    }
 
+            ////Задача 4 
 
-            
+
+            //Console.WriteLine("Наберите слово camelCasing");
+
+            //string letter = Console.ReadLine();
+
+            //var res = letter.Select((i) => i.ToString()).Select(((item) =>
+            //             char.IsUpper(char.Parse(item)) ? " "
+            //             + item : item)).ToArray().Aggregate((i, t) => i + t);
+
+            //Console.WriteLine(res);
+
+
+
 
 
         }
