@@ -24,7 +24,7 @@ namespace Hw21
 
             //Задача 1
 
-            
+
             //    Console.WriteLine("Наберите слово => aeiou");
             //    Console.WriteLine(new string('=',25));
             //    string letter = "aeiou";
@@ -36,7 +36,28 @@ namespace Hw21
             //                        : i)).ToArray());
 
             //    Console.WriteLine(res);
-    
+
+            //////Задача 2
+
+
+            //    Console.WriteLine("Наберите число => 1,2,3,4,5");
+
+            //    Console.WriteLine(new string('=', 25));
+
+            //    string num = "12345";
+
+            //    string letter = "aeiou";
+
+            //    string input = Console.ReadLine();
+
+            //    var res = new string(input.Select((i) => num.Contains(i) ?
+            //                        letter.ElementAtOrDefault(num.IndexOf(i))
+            //                        : i).ToArray());
+
+            //    Console.WriteLine(res);
+
+
+
             
         }
 
