@@ -56,9 +56,46 @@ namespace Hw21
 
             //    Console.WriteLine(res);
 
+            ////Задача 3
+
+
+
+            //    string letter = "fsfd23sdf+dsf2";
+
+            //    var operation = (letter.Where(i => Char.IsPunctuation(i)).ToArray()[0]);
+
+            //    var text = new string(letter.Where(i => Char.IsDigit(i) || 
+            //                         char.IsPunctuation(i)).ToArray()).
+            //                         Split(operation);
+
+            //    double num = double.Parse(text[0]);
+
+            //    double num2 = double.Parse(text[1]);
+
+            //    if (operation == '+')
+            //    {
+            //        Console.WriteLine(num + num2);
+            //    }
+
+            //    if (operation == '-')
+            //    {
+            //        Console.WriteLine(num - num2);
+            //    }
+
+            //    if (operation == '*')
+            //    {
+            //        Console.WriteLine(num * num2);
+            //    }
+
+            //    if (operation == '/')
+            //    {
+            //        Console.WriteLine(num / num2);
+            //    }
 
 
             
+
+
         }
 
     }
